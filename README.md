@@ -1,4 +1,8 @@
 I'm mbnot
+
+![tsukumizu_crab](https://github.com/mbnott/mbnott/assets/114392544/19cc2430-55f1-4be4-bcd2-dad5cd5f376d)
+tsukumizu crab‼‼
+
 <!--I can talk both french and english.  
 I have a bit of experience in C#, as well as PHP. I also have an interest in learning RUST.
 ## Why?
