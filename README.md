@@ -1,4 +1,4 @@
-I'm mbnot, an apprentice software developer
+I'm mbnot, an apprentice software developer  
 I can do c#, php and basic front-end web development (html,css,js)
 
 ![tsukumizu_crab](https://github.com/mbnott/mbnott/assets/114392544/19cc2430-55f1-4be4-bcd2-dad5cd5f376d)
